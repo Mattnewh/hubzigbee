@@ -14,3 +14,4 @@ CONFIG:
     # Raspberry terminal : nano /opt/zigbee2mqtt/data/configuration.yaml -> change IP
     # HUB_zigbee: change broker IP (MOSQUITTO_ADDRESS)
     # Optional: run zigbee2mqtt cd /opt/zigbee2mqtt &&  npm start
+    # Azure CLS: az iot hub monitor-events --hub-name hubEMIDIT --device-id gatewayRasp
